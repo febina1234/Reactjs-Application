@@ -32,6 +32,23 @@ Make sure you have the following installed on your local machine:
    First, clone this repository to your local machine using Git:
    ```bash
    git clone https://github.com/febina1234/Reactjs-Application.git
+
+   After cloning the repository, you should navigate into the project folder and install the project dependencies.
+   cd Reactjs-Application
+   Install dependencies: Run the following command to install all the project dependencies (listed in the package.json file):
+   npm install
+   Start the development server: Once the dependencies are installed, you can start the development server using Vite:
+   npm run dev
+
+   
+### Key Updates:
+1. **Vite**: Included instructions to ensure Vite is correctly set up, whether globally or as part of the project.
+2. **TypeScript**: Mentioned installing TypeScript globally if needed (although it's likely already part of the project if you're using it).
+3. **Tailwind CSS**: Added a note on installing Tailwind CSS and how it’s already integrated into the project.
+
+
+
+   
  
 
  
