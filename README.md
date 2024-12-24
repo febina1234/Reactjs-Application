@@ -2,6 +2,12 @@
 ## Description
 This is a Mock API integration project for handling Items.
 
+## Live Demo
+
+You can view the live version of this project on Netlify:
+
+[Visit My Site](https://reactjs-apiapplication.netlify.app/)
+
 ## Modules
 
 1. **List Items**
