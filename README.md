@@ -33,13 +33,13 @@ bash
    First, clone this repository to your local machine using Git:
    git clone https://github.com/febina1234/Reactjs-Application.git
 2. **Navigate into the project folder**:
-      After cloning the repository, navigate into the project folder:
+      After cloning the repository, navigate into the project folder:<br>
       cd Reactjs-Application
 4. **Install dependencies**:
-      Run the following command to install all the project dependencies (listed in the package.json file
+      Run the following command to install all the project dependencies (listed in the package.json file<br>
       npm install
 6. **Start the development server**:
-      Once the dependencies are installed, you can start the development server using Vite
+      Once the dependencies are installed, you can start the development server using Vite<br>
       npm run dev
 
 
