@@ -30,16 +30,18 @@ bash
  ### Steps to Run the Project Locally
 
 1. **Clone the repository**:
-
    First, clone this repository to your local machine using Git:
    git clone https://github.com/febina1234/Reactjs-Application.git
-
- 2.  After cloning the repository, you should navigate into the project folder and install the project dependencies.
+2. **Navigate into the project folder**:
+      After cloning the repository, navigate into the project folder:
       cd Reactjs-Application
- 4. Install dependencies: Run the following command to install all the project dependencies (listed in the package.json file):
+4. **Install dependencies**:
+      Run the following command to install all the project dependencies (listed in the package.json file
       npm install
- 4.Start the development server: Once the dependencies are installed, you can start the development server using Vite:
-   npm run dev
+6. **Start the development server**:
+      Once the dependencies are installed, you can start the development server using Vite
+      npm run dev
+
 
    
 ### Key Updates:
