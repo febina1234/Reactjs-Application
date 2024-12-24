@@ -28,18 +28,32 @@ Make sure you have the following installed on your local machine:
   
  ### Steps to Run the Project Locally
 
-1. **Clone the repository**:
-   First, clone this repository to your local machine using Git:
-   ```bash
-   git clone https://github.com/febina1234/Reactjs-Application.git
+Steps to Run the Project Locally
+Clone the repository: First, clone this repository to your local machine using Git:
 
-   After cloning the repository, you should navigate into the project folder and install the project dependencies.
-   cd Reactjs-Application
-   Install dependencies: Run the following command to install all the project dependencies (listed in the package.json file):
-   npm install
-   Start the development server: Once the dependencies are installed, you can start the development server using Vite:
-   npm run dev
+bash
+Copy code
+git clone https://github.com/febina1234/Reactjs-Application.git
+Navigate to the project folder: After cloning the repository, navigate into the project folder:
 
+bash
+Copy code
+cd Reactjs-Application
+Install dependencies: Run the following command to install all the project dependencies (listed in the package.json file):
+
+bash
+Copy code
+npm install
+Start the development server: Once the dependencies are installed, you can start the development server using Vite:
+
+bash
+Copy code
+npm run dev
+This will start the React app, and you should be able to access it in your browser at:
+
+arduino
+Copy code
+http://localhost:3000
    
 ### Key Updates:
 1. **Vite**: Included instructions to ensure Vite is correctly set up, whether globally or as part of the project.
