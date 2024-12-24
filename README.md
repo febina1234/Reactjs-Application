@@ -1,6 +1,6 @@
 # ReactJS Application with Mock API
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
+This is a Mock API integration project for handling Items.
 
 Currently, two official plugins are available:
 
