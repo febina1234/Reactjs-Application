@@ -22,9 +22,7 @@ Make sure you have the following installed on your local machine:
 
 - **Node.js**: [Download and install Node.js](https://nodejs.org/)
 - **npm**: npm comes bundled with Node.js, but if you need to install or update it, you can do so via [npm's website](https://www.npmjs.com/get-npm).
-- **Vite**: Vite is used for fast bundling and development. To install it globally, run:
-  
-bash
+- **Vite**: Vite is used for fast bundling and development. To install it globally, run:<br>  
   npm create vite@latest
   
  ### Steps to Run the Project Locally
@@ -40,10 +38,7 @@ bash
       npm install
 6. **Start the development server**:
       Once the dependencies are installed, you can start the development server using Vite<br>
-      npm run dev
-
-
-   
+      npm run dev 
 ### Key Updates:
 1. **Vite**: Included instructions to ensure Vite is correctly set up, whether globally or as part of the project.
 2. **TypeScript**: Mentioned installing TypeScript globally if needed (although it's likely already part of the project if you're using it).
