@@ -80,7 +80,7 @@ const CreateItem: React.FC = () => {
       setTimeout(() => {
         setSuccess(false);
         navigate('/list-items');
-      }, 3000);
+      }, 2000);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'An error occurred');
     } finally {
